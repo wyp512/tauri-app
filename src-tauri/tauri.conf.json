@@ -32,9 +32,7 @@
       "icons/icon.ico"
     ],
     "macOS": {
-      "signingIdentity": "-",             
-      "entitlements": null
-    },
-    "universal": true                     
+      "signingIdentity": "-"
+    }
   }
 }
